@@ -1,8 +1,6 @@
 package go_common
 
-/**
-Set集合. 提供
-*/
+// Set /**
 type Set struct {
 	list map[interface{}]bool
 }
